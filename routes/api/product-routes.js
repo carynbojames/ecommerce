@@ -3,7 +3,6 @@ const { Product, Category, Tag, ProductTag } = require('../../models');
 
 // The `/api/products` endpoint
 
-/// works, but are the tables correct?
 // get all products
 router.get('/', async (req, res) => {
   try {
@@ -18,8 +17,6 @@ router.get('/', async (req, res) => {
   }
 })
 
-
-// works
 // get one product
 // find a single product by its `id`
 //  be sure to include its associated Category and Tag data
@@ -63,8 +60,6 @@ router.post('/', async (req, res) => {
     });
 });
 
-
-/// works
 // update product
 router.put('/:id', (req, res) => {
   // update product data
