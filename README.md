@@ -15,7 +15,7 @@ Build the back end for an e-commerce site by modifying the start code
 - POST, PUT, and DELETE routes for products and tags
 
 ## Deployed Video Link
-https://drive.google.com/file/d/16qansu-MD_B1dCLbf6HGzzVSKVjVBmOD/view 
+https://drive.google.com/file/d/16qansu-MD_B1dCLbf6HGzzVSKVjVBmOD/view  
 
 ## GitHub Link
 https://github.com/carynbojames/ecommerce 
